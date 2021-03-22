@@ -3,7 +3,7 @@ from _csv import writer
 from scipy.stats import norm
 from typing import Literal
 
-Options = Literal['flat_horizontal', 'flat_vertical', 'tube', 'random']
+Options = Literal["flat_horizontal", 'flat_vertical', 'tube', 'random']
 
 
 def generate_points(num_points: int = 2000, option: Options = 'random'):
