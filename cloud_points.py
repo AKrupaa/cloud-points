@@ -195,6 +195,9 @@ if __name__ == '__main__':
 
 #     problemy cz. 1
 # https://github.com/intel-isl/Open3D/issues/979
+# $ pip install open3d
+# ERROR: Could not find a version that satisfies the requirement open3d (from versions: none)
+# ERROR: No matching distribution found for open3d
 
 # Traceback (most recent call last):
 #   File "E:\workplace\XXXX\cloud_points.py", line 13, in <module>

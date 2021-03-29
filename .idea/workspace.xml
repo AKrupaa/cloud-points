@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0e3960c4-aff5-43d5-b498-55232f92c324" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lidar.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Lidar.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud_points.py" beforeDir="false" afterPath="$PROJECT_DIR$/cloud_points.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +39,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/cloud.py" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Python.cloud_points">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
